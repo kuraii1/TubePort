@@ -1,5 +1,0 @@
-{
-    "version": "1.1.0",
-    "changelog": "• Добавлено автообновление программы\n• Обновлена библиотека yt-dlp\n• Исправлены ошибки скачивания\n• Улучшен интерфейс",
-    "download_url": "https://github.com/yourusername/your-repo/releases/download/v1.1.0/TubePort_v1.1.0.zip"
-}
